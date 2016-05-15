@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "926620703730",
+    "project_id": "handy-honor-131215"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926620703730:android:a26d2d8685ddd828",
+        "android_client_info": {
+          "package_name": "ir.bkhezry.googleanalyticssample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnf_KJlc6oDXOVcMphpJm3055MjhSIM2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-26054976-18"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
